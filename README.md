@@ -2,6 +2,6 @@
 
 Deploy using Streamlit Cloud and add in your secrets file the model URL and your API Key
 
-![secrets](https://github.com/cogniflow/image-streamlit/raw/main/secrets.png)
+![secrets](https://github.com/elmarchu/image-demo/blob/main/secrets.png)
 
 
